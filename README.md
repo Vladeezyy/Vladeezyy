@@ -1,16 +1,25 @@
-### Hi there 👋
+<style>
+.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img { 
+    width: 100px;
+    height: 100px;
+    
+}
+.caption {
+    display: block;
+}
+</style>
 
-<!--
-**Vladeezy869/Vladeezy869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<figure class="item">
+    <img  alt="TypeScript" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+    <figcaption class="caption">TypeScript</figcaption>
+</figure>
+<figure class="item">
+    <img  alt="JavaScript" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+    <figcaption class="caption">JavaScript</figcaption>
+</figure>
