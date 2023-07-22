@@ -7,11 +7,6 @@
 
 - 📫 How to reach me **https://t.me/vladeezy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vladyslav bilous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladyslav bilous" height="30" width="40" /></a>
-
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/72550141?v=4" width="40" height="40"/>
