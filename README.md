@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
 <h3 align="center">Experienced QA automation Engineer looking for something interesting</h3>
 
-- 🔭 I’m currently working on **different Playwright Projects**
+- 🔭 I’m currently working on **different Playwright and mobile automation (Flutter) Projects**
 
 - 🌱 I’m currently learning **QA as deep as it's possible**
 
